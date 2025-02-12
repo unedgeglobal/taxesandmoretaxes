@@ -8,7 +8,7 @@ TAXES AND MORE TAXES (TAX)
 ---
 
 Contract (BSC): [0xe09eE00A13D48528c9e8E88d472fC9d9BeAB64cA](https://bscscan.com/token/0xe09ee00a13d48528c9e8e88d472fc9d9beab64ca)
-See more in [https://taxesandmoretaxes.com](https://taxesandmoretaxes.com)
+<br>Website: [https://taxesandmoretaxes.com](https://taxesandmoretaxes.com)
 
 #### About
 
